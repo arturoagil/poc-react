@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "142cedff1e9890394da48f79d747997d",
+    "revision": "d3181c5f49bac1948e7c15b29d8f2ff0",
     "url": "/poc-react/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/poc-react/static/css/2.03989100.chunk.css"
   },
   {
-    "revision": "b5d395766c53dc864940",
+    "revision": "3a8c327c3b068e83a37b",
     "url": "/poc-react/static/css/main.76e35c4b.chunk.css"
   },
   {
@@ -20,12 +20,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/poc-react/static/js/2.ddedddef.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b5d395766c53dc864940",
-    "url": "/poc-react/static/js/main.f74f748d.chunk.js"
+    "revision": "3a8c327c3b068e83a37b",
+    "url": "/poc-react/static/js/main.ffb82546.chunk.js"
   },
   {
     "revision": "4e0e34f265fae8f33b01b27ae29d9d6f",
-    "url": "/poc-react/static/js/main.f74f748d.chunk.js.LICENSE.txt"
+    "url": "/poc-react/static/js/main.ffb82546.chunk.js.LICENSE.txt"
   },
   {
     "revision": "699461f102bca7a1af6e",
